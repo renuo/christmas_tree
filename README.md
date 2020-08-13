@@ -72,7 +72,7 @@ XXXXXXXXX
     |
 ```
 
-Don't forget to write a test first for this exercise! 👨🏻‍💻👩🏼‍💻
+Don't forget to write a test first for this exercise! 👨🏻‍💻 👩🏼‍💻
 
 # Run tests
 
