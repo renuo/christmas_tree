@@ -39,7 +39,7 @@ The implemented function should return the christmas tree as a string.
 ChristmasTree.draw(5)
 ```
 
-The ouput should then looks as follows: 
+The ouput should then looks as follows:
 ```
     X
    XXX
@@ -54,7 +54,7 @@ Slowly the tree takes shape. If you want to go one step further, your task would
 tree stand and a star on top of the tree.
 
 Accordingly, you could add optional arguments to the function, which would determine whether the tree shall have a
-tree stand and/or a star. 
+tree stand and/or a star.
 
 ```
 ChristmasTree.draw(height: 5, tree_stand: true, star: true)
